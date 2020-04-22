@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Watford community home page"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.585">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToYourHomeFeature" time="10.585" classname="uk.org.wcht.testsuite.YourHomeFeatureTest" />
+      
+</testsuite>

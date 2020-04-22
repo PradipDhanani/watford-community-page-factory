@@ -1,0 +1,32 @@
+2020-04-19 22:04:465 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-19 22:04:264 INFO  HomePage :28 - Clicking on your account feature [[ChromeDriver: chrome on WINDOWS (5182b637e693876d640cf534d9710fff)] -> xpath: //div[contains(text(),'Your account')]]
+2020-04-19 22:04:941 INFO  MyAccountPage :23 - Cliking my acount message [[ChromeDriver: chrome on WINDOWS (5182b637e693876d640cf534d9710fff)] -> xpath: //div[@class='panel-heading']]
+2020-04-19 23:04:165 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-19 23:04:438 INFO  HomePage :23 - Clicking on your home feature [[ChromeDriver: chrome on WINDOWS (8a543370774a34a1c8891b8327b1c6b4)] -> xpath: //a[@class='header__nav-area-title'][contains(text(),'Your home')]]
+2020-04-19 23:04:133 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-19 23:04:837 INFO  HomePage :28 - Clicking on your account feature [[ChromeDriver: chrome on WINDOWS (f5ce87c15b7b77d40ebe74884c1a1346)] -> xpath: //div[contains(text(),'Your account')]]
+2020-04-19 23:04:359 INFO  MyAccountPage :23 - Cliking my acount message [[ChromeDriver: chrome on WINDOWS (f5ce87c15b7b77d40ebe74884c1a1346)] -> xpath: //div[@class='panel-heading']]
+2020-04-19 23:04:173 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-19 23:04:689 INFO  HomePage :23 - Clicking on your home feature [[ChromeDriver: chrome on WINDOWS (d6946bb9cf56c4325e91ddd00fd5acb6)] -> xpath: //a[@class='header__nav-area-title'][contains(text(),'Your home')]]
+2020-04-19 23:04:958 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-19 23:04:167 INFO  HomePage :28 - Clicking on your account feature [[ChromeDriver: chrome on WINDOWS (dfb4522aae3f3f84096e69cfe88ddf5c)] -> xpath: //div[contains(text(),'Your account')]]
+2020-04-19 23:04:685 INFO  MyAccountPage :23 - Cliking my acount message [[ChromeDriver: chrome on WINDOWS (dfb4522aae3f3f84096e69cfe88ddf5c)] -> xpath: //div[@class='panel-heading']]
+2020-04-20 10:04:505 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-20 10:04:507 INFO  HomePage :28 - Clicking on your account feature [[ChromeDriver: chrome on WINDOWS (44c4daeef2a70b84834142d612f40afe)] -> xpath: //div[contains(text(),'Your account')]]
+2020-04-20 10:04:88 INFO  MyAccountPage :23 - Cliking my acount message [[ChromeDriver: chrome on WINDOWS (44c4daeef2a70b84834142d612f40afe)] -> xpath: //div[@class='panel-heading']]
+2020-04-20 10:04:416 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-20 10:04:453 INFO  HomePage :28 - Clicking on your account feature [[ChromeDriver: chrome on WINDOWS (617423332b045e9488a86cb5b5d557bc)] -> xpath: //div[contains(text(),'Your account')]]
+2020-04-20 10:04:258 INFO  MyAccountPage :23 - Cliking my acount message [[ChromeDriver: chrome on WINDOWS (617423332b045e9488a86cb5b5d557bc)] -> xpath: //div[@class='panel-heading']]
+2020-04-20 10:04:244 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-20 10:04:392 INFO  HomePage :23 - Clicking on your home feature [[ChromeDriver: chrome on WINDOWS (aabcd4d4accadbe09d7a2e39ef9da404)] -> xpath: //a[@class='header__nav-area-title'][contains(text(),'Your home')]]
+2020-04-20 11:04:147 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-20 11:04:486 INFO  HomePage :28 - Clicking on your account feature [[ChromeDriver: chrome on WINDOWS (9f491d132cdd040fe97a37b04542b08c)] -> xpath: //div[contains(text(),'Your account')]]
+2020-04-20 11:04:539 INFO  MyAccountPage :23 - Cliking my acount message [[ChromeDriver: chrome on WINDOWS (9f491d132cdd040fe97a37b04542b08c)] -> xpath: //div[@class='panel-heading']]
+2020-04-20 11:04:447 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-20 11:04:961 INFO  HomePage :23 - Clicking on your home feature [[ChromeDriver: chrome on WINDOWS (d50df1c42664f87fb1f8e24ded26a6d0)] -> xpath: //a[@class='header__nav-area-title'][contains(text(),'Your home')]]
+2020-04-20 14:04:375 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-20 14:04:299 INFO  HomePage :23 - Clicking on your home feature [[ChromeDriver: chrome on WINDOWS (3f1dac875342d8384a4fbd41dbe9b993)] -> xpath: //a[@class='header__nav-area-title'][contains(text(),'Your home')]]
+2020-04-20 14:04:334 INFO  YourHomeFeaturePage :22 - Getting your home feature text [[ChromeDriver: chrome on WINDOWS (3f1dac875342d8384a4fbd41dbe9b993)] -> xpath: //h1[contains(text(),'Your home')]]
+2020-04-20 14:04:267 INFO  BrowserSelector :24 - Launching chrome browser
+2020-04-20 14:04:303 INFO  HomePage :23 - Clicking on your home feature [[ChromeDriver: chrome on WINDOWS (cd312d659bbf829331be5cebe4ebeff4)] -> xpath: //a[@class='header__nav-area-title'][contains(text(),'Your home')]]
+2020-04-20 14:04:409 INFO  YourHomeFeaturePage :22 - Getting your home feature text [[ChromeDriver: chrome on WINDOWS (cd312d659bbf829331be5cebe4ebeff4)] -> xpath: //h1[contains(text(),'Your home')]]
